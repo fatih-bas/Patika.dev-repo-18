@@ -1,6 +1,16 @@
 # Patika.dev-repo-18
-### Front-End Patikası React Bölümü, Bölüm Sonu Uygulaması
-- Weather-App using `Contex API`
+
+- Weather-App using `Contex API` 
+- API - `https://openweathermap.org/api`
+- Styling `Chakra-ui`
+
+### Live
+
+https://weather-app-111.netlify.app/
+
+
+![ss](https://user-images.githubusercontent.com/47625725/159122564-e0ff28c5-afb3-46da-8b20-9c37b1f28de6.png)
+
 
 ### Setup
 1. Clone the repository and install the dependencies
