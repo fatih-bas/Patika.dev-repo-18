@@ -1,4 +1,4 @@
-# Patika.dev-repo-18
+## Weather App
 
 - Weather-App using `Contex API` 
 - API - `https://openweathermap.org/api`
